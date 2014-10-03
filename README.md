@@ -20,6 +20,6 @@ Please feel free to update this repository with any additional information or re
 
 ### Papers/Tutorials
 
-Hogg et al. 2010 : *Data analysis recipes: Fitting a model to data* [PDF](http://arxiv.org/pdf/1008.4686v1)
-Hogg et al. 2012 : *Data analysis recipes: Probability calculus for inference* [PDF](http://arxiv.org/pdf/1205.4446v1)
+* Hogg et al. 2010 : *Data analysis recipes: Fitting a model to data* [PDF](http://arxiv.org/pdf/1008.4686v1)
+* Hogg et al. 2012 : *Data analysis recipes: Probability calculus for inference* [PDF](http://arxiv.org/pdf/1205.4446v1)
 
