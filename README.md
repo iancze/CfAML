@@ -5,6 +5,8 @@ Collaborative repository for the Machine Learning Reading group at CfA
 
 To email the list: `cfaml@googlegroups.com`
 
+Sign up sheet to talk is [here](https://docs.google.com/spreadsheets/d/1d9vLzKhivlN5S5b9sttyAtzCkGKEZhscsOPHJuakWm8/edit?usp=sharing).
+
 Please feel free to update this repository with any additional information or references you find!
 
 ## References 
