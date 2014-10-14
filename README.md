@@ -1,5 +1,6 @@
 CfAML
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/iancze/CfAML?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Collaborative repository for the Machine Learning Reading group at CfA
 
