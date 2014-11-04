@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy.special import erfinv 
+from scipy.special import erfinv
 import random
 
-    
+
 
 def brownianwalk2d(T):
     x = np.zeros((T))
@@ -15,7 +15,7 @@ def brownianwalk2d(T):
     return x, y
 
 def gaussianwalk2d(T):
-    
+
    x = np.zeros((T))
    y = np.zeros((T))
    p = np.zeros((T))
@@ -46,7 +46,7 @@ def cauchywalk2d(T):
 
 #x, y = brownianwalk2d(1000)
 x, y,p = cauchywalk2d(10000)
-#x,y,p=gaussianwalk2d(100000)
+# x,y,p=gaussianwalk2d(100000)
 # create a figure
 fig = plt.figure()
 # create a plot into the figure
